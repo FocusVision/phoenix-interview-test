@@ -27,7 +27,7 @@ much more data than used by the seeds. You can find the JSON file located at
 * Add a RESTful, read-only API to allow consumers to retrieve data about
   Pokémon.
 * API responses must be formatted in accordance with the [JSON API
-  specification](jsonapi.org)
+  specification](http://jsonapi.org)
 * Create and define at least 3 other models and their relationships using data
   from the JSON file. This may be of your choosing. Some examples include moves,
   types, etc.
